@@ -28,9 +28,11 @@ Using my Colpitts Oscillator build. The frequency is 1 MHz. The mathematical for
 
 I was very curious to see what this looks like on y graphing calculator.
 <img width="1576" height="2100" alt="IMG_8679" src="https://github.com/user-attachments/assets/651059fb-7c89-441a-8d74-cb109dd6a542" />
+<img width="1576" height="2100" alt="IMG_8681" src="https://github.com/user-attachments/assets/4ec0d388-3545-4333-b7a4-57a2eaf1dd41" />
 <img width="2100" height="1576" alt="IMG_8680" src="https://github.com/user-attachments/assets/82a90f6e-030a-4fd6-b337-766d2e44b24d" />
 
-Both look very similar but my real one has some distortion around the peaks and slightly shifted to the right.
+
+Both look very similar but my real one has some distortion around the peaks and slightly shifted to the right. The second calulator photo is zoomed in about the orgin.
 
 
 
