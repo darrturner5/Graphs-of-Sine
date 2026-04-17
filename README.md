@@ -1,6 +1,8 @@
 # Graphs-of-Sine
 Creating a full equation that models my Colpitts Oscillator sine wave.
 
+Right now I am learning Trigonometry and the graphs of Sine and Cosine. I was curious to build my own model from a real life signal source.
+
 Using my Colpitts Oscillator build. The frequency is 1 MHz. The mathematical form of a sin wave is y = Asin(𝜔x)
 - Where A = Amplitude
 - Where 𝜔 = Rotations
@@ -26,8 +28,7 @@ Using my Colpitts Oscillator build. The frequency is 1 MHz. The mathematical for
 
 I was very curious to see what this looks like on y graphing calculator.
 <img width="1576" height="2100" alt="IMG_8679" src="https://github.com/user-attachments/assets/651059fb-7c89-441a-8d74-cb109dd6a542" />
-<img width="2100" height="1576" alt="IMG_8678" src="https://github.com/user-attachments/assets/78618244-5b06-47a6-a6a8-5a23bd4088ce" />
-
+<img width="2100" height="1576" alt="IMG_8680" src="https://github.com/user-attachments/assets/82a90f6e-030a-4fd6-b337-766d2e44b24d" />
 
 Both look very similar but my real one has some distortion around the peaks and slightly shifted to the right.
 
