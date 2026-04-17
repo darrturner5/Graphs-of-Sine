@@ -42,23 +42,27 @@ I probed the signal coming out of the amplifer. You can see the inversion of the
 - Common Emitter Output (Blue), Feedback loop (Yellow)
 
 <img width="2100" height="1576" alt="IMG_8684" src="https://github.com/user-attachments/assets/3694a538-5707-48bf-ac52-d94e1930acfb" />
+<img width="2100" height="1576" alt="IMG_8687" src="https://github.com/user-attachments/assets/e3abf361-de00-4e45-bb4b-7e9d38ac824e" />
 
 - 4.20V Peak to peak voltage
 - 961Khz
 - Period 1.040us
 
 
-Since its an inversion, the graphis flipped over the x axis so y is negative.
+Since its an inversion, the graph is flipped over the X axis ( -f(x) )
 - Amplitude = 4.20/2 = 2.10
 - Period 1.040us
 - 𝜔 = 2π / 1.040
 
 # Model: y = -2.10sin(2π / 1.040*x)
 - y = -2.10sin(2π / 1.040*x)
+- Graphed on my calculator:
 
-<img width="2100" height="1576" alt="IMG_8687" src="https://github.com/user-attachments/assets/e3abf361-de00-4e45-bb4b-7e9d38ac824e" />
+
+
 <img width="1576" height="2100" alt="IMG_8686" src="https://github.com/user-attachments/assets/85344115-4752-445c-98ab-de7fafb2b50c" />
 <img width="1576" height="2100" alt="IMG_8685" src="https://github.com/user-attachments/assets/ee03305d-6606-4e2e-8ddd-4bbb2a2d3c87" />
+*Graph of Common Emitter Amplifier and Colpitts Feedback Network*
 
 
 - Domain = All real Numbers
